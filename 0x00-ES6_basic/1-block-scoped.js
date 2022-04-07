@@ -3,7 +3,9 @@ export default function taskBlock(trueOrFalse) {
   const task2 = true;
 
   if (trueOrFalse) {
+    //connent
     const task = true;
+    //format
     const task2 = false;
   }
 
